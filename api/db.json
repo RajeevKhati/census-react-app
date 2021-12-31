@@ -1,0 +1,290 @@
+{
+  "admins": [
+    {
+      "email": "admin@admin.com",
+      "password": "imadmin",
+      "isApprover": true,
+      "id": 1
+    }
+  ],
+  "volunteers": [
+    {
+      "email": "eren@aot.com",
+      "password": "1234",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "1234",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "30",
+      "request": "approved",
+      "id": 1
+    },
+    {
+      "email": "eren2@aot.com",
+      "password": "1234",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "1234",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "27",
+      "request": "pending",
+      "id": 2
+    },
+    {
+      "email": "eren3@aot.com",
+      "password": "1234",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "1234",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "27",
+      "request": "declined",
+      "id": 3
+    },
+    {
+      "email": "eren4@aot.com",
+      "password": "1234",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "1234",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "27",
+      "request": "approved",
+      "id": 4
+    },
+    {
+      "email": "eren5@aot.com",
+      "password": "1234",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "1234",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "27",
+      "request": "pending",
+      "id": 5
+    },
+    {
+      "email": "eren6@aot.com",
+      "password": "12345678@a",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456789875",
+      "address": "yk ngr",
+      "state": "maharashtra",
+      "age": "13",
+      "request": "pending",
+      "id": 6
+    },
+    {
+      "email": "eren7@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "pending",
+      "id": 7
+    },
+    {
+      "email": "eren8@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "pending",
+      "id": 8
+    },
+    {
+      "email": "eren9@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "pending",
+      "id": 9
+    },
+    {
+      "email": "eren10@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "approved",
+      "id": 10
+    },
+    {
+      "email": "eren11@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "approved",
+      "id": 11
+    },
+    {
+      "email": "eren12@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "declined",
+      "id": 12
+    },
+    {
+      "email": "eren13@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "declined",
+      "id": 13
+    },
+    {
+      "email": "eren14@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "approved",
+      "id": 14
+    },
+    {
+      "email": "eren15@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "pending",
+      "id": 15
+    },
+    {
+      "email": "eren16@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "pending",
+      "id": 16
+    },
+    {
+      "email": "eren17@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "declined",
+      "id": 17
+    },
+    {
+      "email": "eren71@aot.com",
+      "password": "12345678@q",
+      "firstName": "eren",
+      "lastName": "jaegar",
+      "imageLink": "https://th.bing.com/th/id/OIP.0IZf__HLfqLin_bmRSatfgHaHa?pid=ImgDet&rs=1",
+      "aadhar": "123456787653",
+      "address": "yk ngr",
+      "state": "maha",
+      "age": "66",
+      "request": "pending",
+      "id": 18
+    }
+  ],
+  "people": [
+    {
+      "fullName": "anil",
+      "censusHouseNumber": "1",
+      "relationToHead": "self",
+      "gender": "male",
+      "dob": "2021-12-25",
+      "marritalStatus": "married",
+      "ageAtMarriage": "27",
+      "occupationStatus": "employed",
+      "natureOfOccupationIndustry": "tech",
+      "id": 1
+    }
+  ],
+  "houseListing": [
+    {
+      "building": "B-201",
+      "address": "yk ngr",
+      "state": "maha",
+      "headFullName": "anil",
+      "ownershipStatus": "owner",
+      "rooms": "2",
+      "id": 1
+    },
+    {
+      "building": "B-201",
+      "address": "yk ngr",
+      "state": "maharashtra",
+      "headFullName": "sunil",
+      "ownershipStatus": "rented",
+      "rooms": "5",
+      "id": 2
+    }
+  ],
+  "censusHouseNumber": [
+    {
+      "censusHouseNumber": 1,
+      "id": 1
+    },
+    {
+      "censusHouseNumber": 2,
+      "id": 2
+    }
+  ]
+}
