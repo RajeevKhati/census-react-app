@@ -19,9 +19,17 @@ function Volunteer() {
 
   const renderMainVolunteerComponent = () => {
     if (currentVolunteer.request === "pending") {
-      return <h3>Your request is Pending...</h3>;
+      return (
+        <div class="ui raised blue segment">
+          <div className="ui large header">Your request is Pending...</div>
+        </div>
+      );
     } else if (currentVolunteer.request === "declined") {
-      return <h3>Your request is Declined.</h3>;
+      return (
+        <div class="ui raised red segment">
+          <div className="ui large header">Your request is Declined.</div>
+        </div>
+      );
     } else {
       switch (selectedTab) {
         case HOUSE_LISTING:

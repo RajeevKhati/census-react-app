@@ -226,7 +226,7 @@
       "address": "yk ngr",
       "state": "maha",
       "age": "66",
-      "request": "declined",
+      "request": "approved",
       "id": 17
     },
     {
@@ -239,7 +239,7 @@
       "address": "yk ngr",
       "state": "maha",
       "age": "66",
-      "request": "pending",
+      "request": "declined",
       "id": 18
     }
   ],
